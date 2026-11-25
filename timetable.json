@@ -1,0 +1,191 @@
+{
+  "courses": {
+    "HD": "Hydraulics",
+    "RCC": "RCC Structure",
+    "EC": "Estimating, Costing & Contracts",
+    "DT": "Drone Technology",
+    "E&S": "Entrepreneurship Development & Start-ups",
+    "SI": "Summer Internship-II",
+    "MP": "Minor Project"
+  },
+  "batches": {
+    "B1": {
+      "room": "108",
+      "slots": [
+        {
+          "start": "10:00",
+          "label": "10–11 AM"
+        },
+        {
+          "start": "11:00",
+          "label": "11–12 PM"
+        },
+        {
+          "start": "12:00",
+          "label": "12–1 PM"
+        },
+        {
+          "start": "14:00",
+          "label": "2–3 PM"
+        },
+        {
+          "start": "15:00",
+          "label": "3–4 PM"
+        },
+        {
+          "start": "16:00",
+          "label": "4–5 PM"
+        }
+      ],
+      "grid": {
+        "Mon": [
+          "HD(T)",
+          "RCC(T)",
+          "EC(T)",
+          "SI(L)",
+          "RCC(L)",
+          "RCC(L)"
+        ],
+        "Tue": [
+          "HD(T)",
+          "DT(L)",
+          "EC(T)",
+          "SI(L)",
+          "RCC(L)",
+          "RCC(L)"
+        ],
+        "Wed": [
+          "HD(T)",
+          "RCC(T)",
+          "E&S(L)",
+          null,
+          "HD(L)",
+          "HD(L)"
+        ],
+        "Thu": [
+          "DT(T)",
+          "E&S(L)",
+          "E&S(L)",
+          null,
+          "HD(L)",
+          "HD(L)"
+        ],
+        "Fri": [
+          "DT(T)",
+          "MP(L)",
+          "MP(L)",
+          "E&S(L)",
+          "DT(L)",
+          "DT(L)"
+        ],
+        "Sat": [
+          "EC(T)",
+          "RCC(T)",
+          "DT(T)",
+          null,
+          null,
+          "DT(L)"
+        ]
+      },
+      "teachers": {
+        "HD": "Anil Kumar (AK)",
+        "RCC": "Yogendra Kumar (YK)",
+        "EC": "Sandeep Kumar (SK)",
+        "DT": "Akhand Pratap Singh (AP)",
+        "E&S": "Sandeep Kumar (SK)",
+        "SI": "Nitish Kumar (NK)",
+        "MP": "Anil Kumar (AK)"
+      }
+    },
+    "B2": {
+      "room": "110",
+      "slots": [
+        {
+          "start": "10:00",
+          "label": "10–11 AM"
+        },
+        {
+          "start": "11:00",
+          "label": "11–12 PM"
+        },
+        {
+          "start": "12:00",
+          "label": "12–1 PM"
+        },
+        {
+          "start": "14:00",
+          "label": "2–3 PM"
+        },
+        {
+          "start": "15:00",
+          "label": "3–4 PM"
+        },
+        {
+          "start": "16:00",
+          "label": "4–5 PM"
+        }
+      ],
+      "grid": {
+        "Mon": [
+          "DT(L)",
+          "DT(L)",
+          "RCC(L)",
+          null,
+          "E&S(L)",
+          "E&S(L)"
+        ],
+        "Tue": [
+          "DT(L)",
+          "HD(L)",
+          "RCC(L)",
+          null,
+          "DT(L)",
+          "E&S(L)"
+        ],
+        "Wed": [
+          "DT(T)",
+          "E&S(L)",
+          "HD(L)",
+          "EC(T)",
+          "MP(L)",
+          "MP(L)"
+        ],
+        "Thu": [
+          "HD(T)",
+          "RCC(T)",
+          "DT(T)",
+          "EC(T)",
+          "SI(L)",
+          "SI(L)"
+        ],
+        "Fri": [
+          "HD(T)",
+          "RCC(T)",
+          "EC(T)",
+          null,
+          "RCC(L)",
+          "RCC(L)"
+        ],
+        "Sat": [
+          "HD(T)",
+          "DT(T)",
+          "RCC(T)",
+          null,
+          "HD(L)",
+          "HD(L)"
+        ]
+      },
+      "teachers": {
+        "HD": "Anil Kumar (AK)",
+        "RCC": "Yogendra Kumar (YK)",
+        "EC": "Sandeep Kumar (SK)",
+        "DT": "Akhand Pratap Singh (AP)",
+        "E&S": "Sandeep Kumar (SK)",
+        "SI": "Nitish Kumar (NK)",
+        "MP": "Rahul Kumar Singh (RKS)"
+      }
+    }
+  },
+  "effective_from": "2026-07-30",
+  "semester": "V (AY 2026-27)"
+}
